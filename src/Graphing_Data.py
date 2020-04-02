@@ -16,6 +16,7 @@ Created on Fri Mar 27 12:45:54 2020
 """
 import pandas
 import numpy
+import os
 from plotnine import *
 from plotnine.data import *
     
@@ -26,19 +27,18 @@ del data1["fips"]
 
 
 #filtering out the counties I don't want to look at
-counties = list(set(data1["county"]))
-county = ["Bergen", "Broward", "Cook", "Dougherty", "Los Angeles",\
-          "Macomb", "Nassau", "Oakland", "Orleans", \
-          "Santa Clara", "Snohomish","King", "New York City"]
+minimum_deaths_for_filtering = 30
+minimum_deaths_for_graphing = 5
+counties = list(set(data1[data1["deaths"]>minimum_deaths_for_filtering]["county"]))
+county = counties
 data = data1[data1["county"].isin(county)]
 del data["state"]
-minimum_deaths = 1
 
 #separating the data by county into a dictionary, then combining back together
 #into a dataframe
 data_by_county = {}
 for i in county:
-    county_data = data[data["county"]==i][data[data["county"]==i]["deaths"]>minimum_deaths]
+    county_data = data[data["county"]==i][data[data["county"]==i]["deaths"]>minimum_deaths_for_graphing]
     county_data.insert(0, "Day", list(range(1, len(county_data)+1)))
     data_by_county[i] = county_data
 graphable_data = pandas.DataFrame(columns = data_by_county[county[0]].columns)
@@ -56,20 +56,25 @@ graphable_data["county"] = counties
 graphable_data["cases"] = cases
 
 #constants for printing out the graph
-text_size = 20
-graph_w = 15
+text_size = 12
+graph_w = 20
 graph_h = 8
 
 #Cases per day
+file1="temp1"
 myPlot = ggplot(graphable_data, aes('Day', 'cases', color="county"))\
  + geom_line(size = 2)\
  + theme(text=element_text(size = text_size))
-ggsave(myPlot, width = graph_w, height = graph_h)
+ggsave(myPlot, filename=file1, width = graph_w, height = graph_h)
 myPlot.draw()
 
 #Deaths per day
 myPlot = ggplot(graphable_data, aes('Day', 'deaths', color="county"))\
  + geom_line(size = 2)\
  + theme(text=element_text(size = text_size))
-ggsave(myPlot, width = graph_w, height = graph_h)
+file2 = 'temp2'
+ggsave( myPlot,filename=file2, width = graph_w, height = graph_h)
+
 myPlot.draw()
+os.remove(file1+'.png')
+os.remove(file2+'.png')
