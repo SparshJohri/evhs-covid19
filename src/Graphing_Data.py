@@ -24,6 +24,7 @@ file = "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counti
 data1 = pandas.read_csv(file)
 del data1["fips"]
 
+
 #filtering out the counties I don't want to look at
 counties = list(set(data1["county"]))
 county = ["Bergen", "Broward", "Cook", "Dougherty", "Los Angeles",\
