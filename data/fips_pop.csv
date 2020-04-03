@@ -1,0 +1,496 @@
+fips,pop,county,state
+45063,298750,Lexington,South Carolina
+45067,30657,Marion,South Carolina
+45079,415759,Richland,South Carolina
+45085,106721,Sumter,South Carolina
+45091,280979,York,South Carolina
+41003,93053,Benton,Oregon
+41005,418187,Clackamas,Oregon
+47157,937166,Shelby,Tennessee
+41039,382067,Lane,Oregon
+41043,129749,Linn,Oregon
+41047,347818,Marion,Oregon
+41051,812855,Multnomah,Oregon
+39009,65327,Athens,Ohio
+39015,43432,Brown,Ohio
+41067,601592,Washington,Oregon
+41071,107100,Yamhill,Oregon
+39029,101883,Columbiana,Ohio
+39035,1235072,Cuyahoga,Ohio
+39037,51113,Darke,Ohio
+39041,209177,Delaware,Ohio
+39043,74266,Erie,Ohio
+39049,1316756,Franklin,Ohio
+39053,29898,Gallia,Ohio
+39057,168937,Greene,Ohio
+37021,261191,Buncombe,North Carolina
+37025,216453,Cabarrus,North Carolina
+39077,58266,Huron,Ohio
+39085,230149,Lake,Ohio
+37039,28612,Cherokee,North Carolina
+39093,309833,Lorain,Ohio
+39095,428348,Lucas,Ohio
+35001,679121,Bernalillo,New Mexico
+39099,228683,Mahoning,Ohio
+39103,179746,Medina,Ohio
+39109,106987,Miami,Ohio
+35015,58460,Eddy,New Mexico
+39113,531687,Montgomery,Ohio
+37067,382295,Forsyth,North Carolina
+37081,537174,Guilford,North Carolina
+37085,135976,Harnett,North Carolina
+39133,162466,Portage,Ohio
+39147,55178,Seneca,Ohio
+37101,209339,Johnston,North Carolina
+39151,370606,Stark,Ohio
+39153,541013,Summit,Ohio
+33011,417025,Hillsborough,New Hampshire
+39155,197974,Trumbull,Ohio
+33015,309769,Rockingham,New Hampshire
+37119,1110356,Mecklenburg,North Carolina
+37133,197938,Onslow,North Carolina
+37159,142088,Rowan,North Carolina
+31019,49659,Buffalo,Nebraska
+31055,571327,Douglas,Nebraska
+29019,180463,Boone,Missouri
+29029,46305,Camden,Missouri
+31079,61353,Hall,Nebraska
+31111,34914,Lincoln,Nebraska
+29077,293086,Greene,Missouri
+29083,21824,Henry,Missouri
+29095,703011,Jackson,Missouri
+25001,212990,Barnstable,Massachusetts
+25003,124944,Berkshire,Massachusetts
+27053,1265843,Hennepin,Minnesota
+25005,565217,Bristol,Massachusetts
+25009,789034,Essex,Massachusetts
+25011,70180,Franklin,Massachusetts
+29107,32708,Lafayette,Missouri
+25013,466372,Hampden,Massachusetts
+25017,1611699,Middlesex,Massachusetts
+25021,706775,Norfolk,Massachusetts
+25023,521202,Plymouth,Massachusetts
+25025,803907,Suffolk,Massachusetts
+25027,830622,Worcester,Massachusetts
+27091,19683,Martin,Minnesota
+23005,295003,Cumberland,Maine
+23011,122302,Kennebec,Maine
+27123,550321,Ramsey,Minnesota
+51700,179225,Newport News city,Virginia
+23031,207641,York,Maine
+29183,402022,St. Charles,Missouri
+29189,994205,St. Louis,Missouri
+21005,22747,Anderson,Kentucky
+21017,19788,Bourbon,Kentucky
+21029,81676,Bullitt,Kentucky
+19005,13687,Allamakee,Iowa
+21059,101511,Daviess,Kentucky
+21067,323152,Fayette,Kentucky
+21107,44686,Hopkins,Kentucky
+19061,97311,Dubuque,Iowa
+51830,14954,Williamsburg city,Virginia
+21111,766757,Jefferson,Kentucky
+17015,14305,Carroll,Illinois
+21117,166998,Kenton,Kentucky
+17031,5150233,Cook,Illinois
+17043,922921,DuPage,Illinois
+15003,974563,Honolulu,Hawaii
+19113,226706,Linn,Iowa
+17089,532403,Kane,Illinois
+19139,42664,Muscatine,Iowa
+17093,128990,Kendall,Illinois
+17097,696535,Lake,Illinois
+17099,108669,LaSalle,Illinois
+13007,3038,Baker,Georgia
+13009,44890,Baldwin,Georgia
+19157,18504,Poweshiek,Iowa
+13013,83240,Barrow,Georgia
+13015,107738,Bartow,Georgia
+17111,307774,McHenry,Illinois
+17113,171517,McLean,Illinois
+21213,18572,Simpson,Kentucky
+19183,21965,Washington,Iowa
+17137,33658,Morgan,Illinois
+13045,119992,Carroll,Georgia
+11001,705749,District of Columbia,District of Columbia
+13051,289430,Chatham,Georgia
+13057,258773,Cherokee,Georgia
+13059,128331,Clarke,Georgia
+13063,292256,Clayton,Georgia
+13067,760141,Cobb,Georgia
+17163,259686,St. Clair,Illinois
+17167,194672,Sangamon,Illinois
+13071,45600,Colquitt,Georgia
+13077,148509,Coweta,Georgia
+13089,759297,DeKalb,Georgia
+54049,56072,Marion,West Virginia
+13095,87956,Dougherty,Georgia
+09001,943332,Fairfield,Connecticut
+13097,146343,Douglas,Georgia
+13099,10190,Early,Georgia
+09003,891720,Hartford,Connecticut
+17197,690743,Will,Illinois
+09005,180333,Litchfield,Connecticut
+09007,162436,Middlesex,Connecticut
+17195,55175,Whiteside,Illinois
+09009,854757,New Haven,Connecticut
+09011,265206,New London,Connecticut
+09013,150721,Tolland,Connecticut
+13113,114421,Fayette,Georgia
+13115,98498,Floyd,Georgia
+13117,244252,Forsyth,Georgia
+13121,1063937,Fulton,Georgia
+29510,300576,St. Louis city,Missouri
+13129,57963,Gordon,Georgia
+13135,936250,Gwinnett,Georgia
+50007,163774,Chittenden,Vermont
+13149,11923,Heard,Georgia
+13151,234561,Henry,Georgia
+13153,157863,Houston,Georgia
+50027,55062,Windsor,Vermont
+13177,29992,Lee,Georgia
+13185,117406,Lowndes,Georgia
+13195,29880,Madison,Georgia
+13205,21863,Mitchell,Georgia
+48027,362924,Bell,Texas
+48029,2003554,Bexar,Texas
+05023,24919,Cleburne,Arkansas
+05029,20846,Conway,Arkansas
+48039,374264,Brazoria,Texas
+13225,27546,Peach,Georgia
+48041,229211,Brazos,Texas
+13227,32591,Pickens,Georgia
+13247,90896,Rockdale,Georgia
+13261,29524,Sumter,Georgia
+46035,19775,Davison,South Dakota
+48085,1034730,Collin,Texas
+13273,8531,Terrell,Georgia
+48091,156209,Comal,Texas
+13285,69922,Troup,Georgia
+48113,2635516,Dallas,Texas
+48121,887207,Denton,Texas
+01017,33254,Chambers,Alabama
+05119,391911,Pulaski,Arkansas
+13313,104628,Whitfield,Georgia
+13321,20247,Worth,Georgia
+48139,184826,Ellis,Texas
+42003,1216045,Allegheny,Pennsylvania
+05141,16545,Van Buren,Arkansas
+42007,163929,Beaver,Pennsylvania
+48157,811688,Fort Bend,Texas
+42017,628270,Bucks,Pennsylvania
+42019,187853,Butler,Pennsylvania
+42025,64182,Carbon,Pennsylvania
+42029,524989,Chester,Pennsylvania
+01071,51626,Jackson,Alabama
+01077,92729,Lauderdale,Alabama
+42041,253370,Cumberland,Pennsylvania
+01081,164542,Lee,Alabama
+42043,278299,Dauphin,Pennsylvania
+42045,566747,Delaware,Pennsylvania
+01089,372909,Madison,Alabama
+48199,57602,Hardin,Texas
+48201,4713325,Harris,Texas
+01097,413210,Mobile,Alabama
+01101,226486,Montgomery,Alabama
+40017,148306,Canadian,Oklahoma
+42069,209674,Lackawanna,Pennsylvania
+42071,545724,Lancaster,Pennsylvania
+42073,85512,Lawrence,Pennsylvania
+40027,284014,Cleveland,Oklahoma
+42077,369318,Lehigh,Pennsylvania
+01117,217702,Shelby,Alabama
+42079,317417,Luzerne,Pennsylvania
+01123,40367,Tallapoosa,Alabama
+40037,71522,Creek,Oklahoma
+42089,170271,Monroe,Pennsylvania
+42091,830915,Montgomery,Pennsylvania
+42095,305285,Northampton,Pennsylvania
+42101,1584064,Philadelphia,Pennsylvania
+42103,55809,Pike,Pennsylvania
+48251,175817,Johnson,Texas
+42109,40372,Snyder,Pennsylvania
+38017,181923,Cass,North Dakota
+36001,305506,Albany,New York
+38049,5745,McHenry,North Dakota
+40101,67997,Muskogee,Oklahoma
+36007,190488,Broome,New York
+38059,31364,Morton,North Dakota
+40109,797434,Oklahoma,Oklahoma
+48303,310569,Lubbock,Texas
+40117,16376,Pawnee,Oklahoma
+36021,59461,Columbia,New York
+48309,256623,McLennan,Texas
+36027,294218,Dutchess,New York
+36029,918702,Erie,New York
+48321,36643,Matagorda,Texas
+40135,41569,Sequoyah,Oklahoma
+48329,176832,Midland,Texas
+36043,61319,Herkimer,New York
+40143,651552,Tulsa,Oklahoma
+40145,81289,Wagoner,Oklahoma
+34003,932202,Bergen,New Jersey
+34005,445349,Burlington,New Jersey
+36055,741770,Monroe,New York
+34007,506471,Camden,New Jersey
+36059,1356924,Nassau,New York
+34011,149527,Cumberland,New Jersey
+34013,798975,Essex,New Jersey
+34015,291636,Gloucester,New Jersey
+34017,672391,Hudson,New Jersey
+34021,367430,Mercer,New Jersey
+34023,825062,Middlesex,New Jersey
+48359,2112,Oldham,Texas
+34025,618795,Monmouth,New Jersey
+36071,384940,Orange,New York
+34027,491845,Morris,New Jersey
+34029,607186,Ocean,New Jersey
+34031,501826,Passaic,New Jersey
+34033,62385,Salem,New Jersey
+34035,328934,Somerset,New Jersey
+34037,140488,Sussex,New Jersey
+36087,325789,Rockland,New York
+34039,556341,Union,New Jersey
+34041,105267,Warren,New Jersey
+36091,229863,Saratoga,New York
+32003,2266715,Clark,Nevada
+36103,1476601,Suffolk,New York
+36105,75432,Sullivan,New York
+36111,177573,Ulster,New York
+36119,967506,Westchester,New York
+36121,39859,Wyoming,New York
+32031,471519,Washoe,Nevada
+48423,232751,Smith,Texas
+48439,2102515,Tarrant,Texas
+48453,1273954,Travis,Texas
+48467,56590,Van Zandt,Texas
+48479,276652,Webb,Texas
+30053,19980,Lincoln,Montana
+28005,12297,Amite,Mississippi
+30057,8600,Madison,Montana
+48491,590551,Williamson,Texas
+28011,30628,Bolivar,Mississippi
+28033,184945,DeSoto,Mississippi
+28045,47632,Hancock,Mississippi
+28047,208080,Harrison,Mississippi
+28051,17010,Holmes,Mississippi
+30101,4736,Toole,Montana
+26021,153401,Berrien,Michigan
+28071,54019,Lafayette,Mississippi
+26027,51787,Cass,Michigan
+28081,85436,Lee,Mississippi
+28083,28183,Leflore,Mississippi
+26049,405813,Genesee,Michigan
+28097,9775,Montgomery,Mississippi
+24003,579234,Anne Arundel,Maryland
+24005,827370,Baltimore,Maryland
+26053,13975,Gogebic,Michigan
+26059,45605,Hillsdale,Michigan
+28107,34192,Panola,Mississippi
+24013,168447,Carroll,Maryland
+28111,11973,Perry,Mississippi
+26065,292406,Ingham,Michigan
+24017,163257,Charles,Maryland
+28121,155271,Rankin,Mississippi
+26073,69872,Isabella,Michigan
+26075,158510,Jackson,Michigan
+24027,325690,Howard,Maryland
+26077,265066,Kalamazoo,Michigan
+24031,1050688,Montgomery,Maryland
+26079,18038,Kalkaska,Michigan
+24033,909327,Prince George's,Maryland
+26081,656955,Kent,Michigan
+28133,25110,Sunflower,Mississippi
+28139,22015,Tippah,Mississippi
+26093,191995,Livingston,Michigan
+24045,103609,Wicomico,Maryland
+28143,9632,Tunica,Mississippi
+22001,62045,Acadia,Louisiana
+26099,873972,Macomb,Michigan
+22003,25627,Allen,Louisiana
+22005,126604,Ascension,Louisiana
+26107,43453,Mecosta,Michigan
+28155,9689,Webster,Mississippi
+28157,8630,Wilkinson,Mississippi
+22013,13241,Bienville,Louisiana
+22015,127039,Bossier,Louisiana
+22017,240204,Caddo,Louisiana
+26113,15118,Missaukee,Michigan
+22019,203436,Calcasieu,Louisiana
+22025,9494,Catahoula,Louisiana
+26121,173566,Muskegon,Michigan
+26125,1257584,Oakland,Michigan
+22031,27463,De Soto,Louisiana
+22033,440059,East Baton Rouge,Louisiana
+22047,32511,Iberville,Louisiana
+22051,432493,Jefferson,Louisiana
+22055,244390,Lafayette,Louisiana
+22057,97614,Lafourche,Louisiana
+26157,52245,Tuscola,Michigan
+26161,367601,Washtenaw,Michigan
+26163,1749343,Wayne,Michigan
+22071,390144,Orleans,Louisiana
+22073,153279,Ouachita,Louisiana
+22075,23197,Plaquemines,Louisiana
+22079,129648,Rapides,Louisiana
+20037,38818,Crawford,Kansas
+22087,47244,St. Bernard,Louisiana
+22089,53100,St. Charles,Louisiana
+22093,21096,St. James,Louisiana
+22095,42837,St. John the Baptist,Louisiana
+22097,82124,St. Landry,Louisiana
+18003,379299,Allen,Indiana
+22099,53431,St. Martin,Louisiana
+22103,260419,St. Tammany,Louisiana
+22109,110461,Terrebonne,Louisiana
+22113,59511,Vermilion,Louisiana
+22117,46194,Washington,Louisiana
+22119,38340,Webster,Louisiana
+22121,26465,West Baton Rouge,Louisiana
+18029,49458,Dearborn,Indiana
+18031,26559,Decatur,Indiana
+18035,114135,Delaware,Indiana
+18039,206341,Elkhart,Indiana
+18041,23102,Fayette,Indiana
+20091,602401,Johnson,Kansas
+18047,22758,Franklin,Indiana
+16001,481587,Ada,Idaho
+18059,78168,Hancock,Indiana
+16013,23021,Blaine,Idaho
+18063,170311,Hendricks,Indiana
+18067,82544,Howard,Indiana
+18073,33562,Jasper,Indiana
+16027,229849,Canyon,Idaho
+16031,24030,Cassia,Idaho
+18081,158167,Johnson,Indiana
+18089,485493,Lake,Indiana
+18095,129569,Madison,Indiana
+18097,964582,Marion,Indiana
+18109,70489,Morgan,Indiana
+16069,40408,Nez Perce,Idaho
+20173,516042,Sedgwick,Kansas
+20177,176875,Shawnee,Kansas
+18133,37576,Putnam,Indiana
+18137,28324,Ripley,Indiana
+18141,271826,St. Joseph,Indiana
+18143,23873,Scott,Indiana
+36005,1418207,Unknown,Rhode Island
+12011,1952778,Broward,Florida
+18157,195732,Tippecanoe,Indiana
+20209,165429,Wyandotte,Kansas
+12017,149657,Citrus,Florida
+12019,219252,Clay,Florida
+55025,546695,Dane,Wisconsin
+12021,384902,Collier,Florida
+18167,107038,Vigo,Indiana
+12027,38001,DeSoto,Florida
+18171,8265,Warren,Indiana
+55039,103403,Fond du Lac,Wisconsin
+12031,957755,Duval,Florida
+55051,5687,Iron,Wisconsin
+12043,13811,Glades,Florida
+53005,204390,Benton,Washington
+53007,77200,Chelan,Washington
+10001,180786,Kent,Delaware
+53011,488241,Clark,Washington
+10003,558753,New Castle,Delaware
+10005,234225,Sussex,Delaware
+12055,106221,Highlands,Florida
+12057,1471968,Hillsborough,Florida
+53025,97733,Grant,Washington
+53029,85141,Island,Washington
+12071,770577,Lee,Florida
+55079,945726,Milwaukee,Wisconsin
+53033,2252782,King,Washington
+53035,271473,Kitsap,Washington
+53039,22425,Klickitat,Washington
+12081,403253,Manatee,Florida
+55089,89221,Ozaukee,Wisconsin
+12086,2716940,Miami-Dade,Florida
+12091,210738,Okaloosa,Florida
+53053,904980,Pierce,Washington
+12095,1393452,Orange,Florida
+53057,129205,Skagit,Washington
+12097,375751,Osceola,Florida
+12099,1496770,Palm Beach,Florida
+08001,517421,Adams,Colorado
+53061,822083,Snohomish,Washington
+12101,553947,Pasco,Florida
+12103,974996,Pinellas,Florida
+08005,656590,Arapahoe,Colorado
+53063,522798,Spokane,Washington
+55111,64442,Sauk,Wisconsin
+51013,236842,Arlington,Virginia
+12105,724777,Polk,Florida
+12109,264672,St. Johns,Florida
+08013,326196,Boulder,Colorado
+08015,20356,Chaffee,Colorado
+12111,328297,St. Lucie,Florida
+12113,184313,Santa Rosa,Florida
+53073,229247,Whatcom,Washington
+12115,433742,Sarasota,Florida
+08014,70465,Broomfield,Colorado
+53077,250873,Yakima,Washington
+08025,6061,Crowley,Colorado
+55131,136034,Washington,Wisconsin
+55133,404198,Waukesha,Wisconsin
+08031,727211,Denver,Colorado
+12127,553284,Volusia,Florida
+55135,50990,Waupaca,Wisconsin
+08037,55127,Eagle,Colorado
+08041,720403,El Paso,Colorado
+08045,60061,Garfield,Colorado
+06001,1671329,Alameda,California
+51059,1147532,Fairfax,Virginia
+49011,355481,Davis,Utah
+08051,17462,Gunnison,Colorado
+08059,582881,Jefferson,Colorado
+06013,1153526,Contra Costa,California
+08069,356899,Larimer,Colorado
+06029,900202,Kern,California
+51087,330818,Henrico,Virginia
+06037,10039107,Los Angeles,California
+51095,76523,James City,Virginia
+06039,157327,Madera,California
+06041,258826,Marin,California
+08097,17767,Pitkin,Colorado
+49057,260213,Weber,Utah
+06051,14444,Mono,California
+06053,434061,Monterey,California
+04005,143476,Coconino,Arizona
+08101,168424,Pueblo,Colorado
+06055,137744,Napa,California
+06059,3175692,Orange,California
+06061,398329,Placer,California
+04013,4485414,Maricopa,Arizona
+06065,2470546,Riverside,California
+04019,1047279,Pima,Arizona
+06067,1552058,Sacramento,California
+06069,62808,San Benito,California
+08119,25388,Teller,Colorado
+06071,2180085,San Bernardino,California
+06073,3338330,San Diego,California
+08123,324492,Weld,Colorado
+06075,881549,San Francisco,California
+06077,762148,San Joaquin,California
+47037,694144,Davidson,Tennessee
+24510,593490,Baltimore city,Maryland
+06081,766573,San Mateo,California
+06085,1927852,Santa Clara,California
+06087,273213,Santa Cruz,California
+06089,180080,Shasta,California
+45003,170872,Aiken,South Carolina
+45007,202558,Anderson,South Carolina
+06097,494336,Sonoma,California
+45013,192122,Beaufort,South Carolina
+45017,14553,Calhoun,South Carolina
+45019,411406,Charleston,South Carolina
+06107,466195,Tulare,California
+06111,846006,Ventura,California
+06113,220500,Yolo,California
+45027,33745,Clarendon,South Carolina
+02020,288000,Anchorage,Alaska
+45041,138293,Florence,South Carolina
+45045,523542,Greenville,South Carolina
+45051,354081,Horry,South Carolina
+45055,66551,Kershaw,South Carolina

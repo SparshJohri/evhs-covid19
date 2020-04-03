@@ -39,6 +39,7 @@ del data["state"]
 data_by_county = {}
 for i in county:
     county_data = data[data["county"]==i][data[data["county"]==i]["deaths"]>minimum_deaths_for_graphing]
+    print(county_data)
     county_data.insert(0, "Day", list(range(1, len(county_data)+1)))
     data_by_county[i] = county_data
 graphable_data = pandas.DataFrame(columns = data_by_county[county[0]].columns)
