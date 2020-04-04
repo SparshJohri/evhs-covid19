@@ -28,12 +28,12 @@ from plotnine import *
 from plotnine.data import *
     
 #getting the initial data
-file = "../covid-19-data/us-counties.csv"
+file = "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv"
 data1 = pandas.read_csv(file)
 
 
 #filtering out the counties I don't want to look at
-minimum_deaths_for_filtering = 30
+minimum_deaths_for_filtering = 1
 minimum_deaths_for_graphing = 1
 af = addfips.AddFIPS()
 #New York City is not a county- it is same a Bronx county
@@ -42,7 +42,7 @@ nyc_fips = af.get_county_fips('bronx', 'New York')
 data1.fips.fillna(nyc_fips,inplace=True)
 
 allowed_c=[]
-allowed_c =['Los Angeles','Santa Clara', 'San Diego', 'San Francisco', 'King']
+allowed_c =['Los Angeles','Santa Clara', 'San Diego', 'San Francisco', 'King','New York City']
 print('1')
 #allowed_c =['Los Angeles','San Francisco']
 
